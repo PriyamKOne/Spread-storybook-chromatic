@@ -22,6 +22,8 @@ export const Spread: React.FC = () => {
     spreadref.current = spread;
     const sheet = spread.getActiveSheet();
 
+    console.log((GC as any).Spread.Sheets.productInfo);
+
     // debugging
     (window as any)["GC"] = GC;
     (window as any)["spread"] = spread
