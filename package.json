@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@grapecity/spread-sheets": "17.0.10",
-    "@grapecity/spread-sheets-io": "17.0.10",
-    "@grapecity/spread-sheets-react": "17.0.10",
+    "@grapecity/spread-sheets": "16.2.6",
+    "@grapecity/spread-sheets-io": "16.2.6",
+    "@grapecity/spread-sheets-react": "16.2.6",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
