@@ -1,7 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { within, userEvent, expect } from '@storybook/test';
-import GC from '@grapecity/spread-sheets';
-import { SpreadSheets, Worksheet, Column } from '@grapecity/spread-sheets-react';
 
 import { Spread } from './Spread';
 
