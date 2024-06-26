@@ -29,9 +29,6 @@ export const Spread: React.FC = () => {
       <div className="sample-tutorial">
         <div className="sample-spreadsheets">
           <SpreadSheets workbookInitialized={spread => initSpread(spread)}>
-            <Worksheet></Worksheet>
-            <Worksheet></Worksheet>
-            <Worksheet></Worksheet>
           </SpreadSheets>
           <p>hello chnagde</p>
         </div>
